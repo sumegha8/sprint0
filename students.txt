@@ -19,6 +19,7 @@ Mingming Su, sum, mingmingsu
 Carter Olsen,olsencar,olsencar
 Joshua Carle, carlej, carlej
 Andy Trinh, trinha, andytrinh
+Cristian Mann, manncr, Garishtech
 Jason Johnson, johnsja7, johnsja7
 Jacob Berwick,berwicja,jberwick12
 Kyle Peterson, peterkyl, peterkyl
