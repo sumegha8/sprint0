@@ -1,4 +1,4 @@
-﻿Name,ONID,GitHub username
+Name,ONID,GitHub username
 Jackson Bizjak, Bizjakj, Bizjakj
 Xizhi Yang, yangxiz, yangxizhi
 Danila Fedorin, fedorind, DanilaFe
